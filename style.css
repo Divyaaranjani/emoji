@@ -1,0 +1,63 @@
+.face{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: yellow;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+    }
+    .eye1{
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+    .eye2{
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        margin-left: 120px;
+        margin-top: 50px;
+    }
+    .eye3{
+        height: 25px;
+        width: 25px;
+        border-radius:25px;
+        background-color: black;
+        position: absolute;
+        margin-left: 130px;
+        margin-top: 55px;
+    }
+    .eye4{
+        height: 25px;
+        width: 25px;
+        border-radius:25px;
+        background-color: black;
+        position: absolute;
+        margin-left: 45px;
+        margin-top: 55px;
+    }
+.sq{
+    height: 18px;
+    width: 75px;
+    background-color: black;
+    border-radius: 4px 4px 10px 10px;
+    position: absolute;
+    margin-left: 65px;
+    margin-top: 125px;
+    }
+
+
+
+
+    
+
+
+
+
